@@ -1,0 +1,18 @@
+1 What are the number of parameters in 1st convolutional layers ? 
+
+	Parameter-1 :- Input image (32 * 32 *3)
+	Parameter-2 :- Filter-1 (5 * 5 * 3 * 6)
+
+2 What are the number of parameters in pooling operation? 
+
+	Parameter-1 :- Pooling matrix (2 * 2)
+	Parameter-2 :- Input data(Output of convolution layer preceding it)
+	Parameter-3 :- stride (2)
+
+3 Which of the following operations contain most number of parameters?
+ 
+	Fully Connected Layer
+
+4 Which operation consume most amount of memory?
+ 
+	Initial Convolution Layer
